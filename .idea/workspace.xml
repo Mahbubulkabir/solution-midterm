@@ -5,16 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fff535cc-52a0-4772-9477-1ae2b989164e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/core.java.qa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CollectionView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MySqlConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UseArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm-coding-exam" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm-coding-exam/src/datastructure/CollectionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/midterm-coding-exam/src/datastructure/CollectionView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -33,11 +52,82 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/munna/InteliiJ/Exam.mid",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Numbers" />
+      <module name="Exam.mid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTestSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.UnitTestSorting" />
+      <module name="Exam.mid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam.mid [test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.UnitTestSorting" />
+      <item itemvalue="Application.Numbers" />
+      <item itemvalue="Maven.Exam.mid [test]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UnitTestSorting" />
+        <item itemvalue="Application.Numbers" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
