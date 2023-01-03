@@ -19,9 +19,29 @@ public class UnitTestSorting {
         }catch(Exception ex){
             ex.getMessage();
          }
-        sort.insertionSort();
+
+        sort.insertionSort(unSortedArray);
+        try {
+            Assert.assertEquals(sortedArray, unSortedArray);
+        }catch(Exception ex){
+            ex.getMessage();
+        }
+
         sort.mergeSort(unSortedArray);
+        try {
+            Assert.assertEquals(sortedArray, unSortedArray);
+        }catch(Exception ex){
+            ex.getMessage();
+        }
+
+
         sort.bubbleSort(unSortedArray);
+        try {
+            Assert.assertEquals(sortedArray, unSortedArray);
+        }catch(Exception ex){
+            ex.getMessage();
+        }
+
 
 
         //Now implement Unit test for rest of the soring algorithm...................below
